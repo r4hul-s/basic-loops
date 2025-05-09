@@ -7,3 +7,4 @@ for i in range(1, 11):
     print(f"{num} x {i} = {num * i}")
 
 # changes made in file pushed to github
+# there are multiple changes made 
