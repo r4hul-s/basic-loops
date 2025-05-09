@@ -7,3 +7,4 @@ for i in range(1, 11):
     print(f"{num} x {i} = {num * i}")
 
 #any changes made to the file will be shown here 
+# okay okay
