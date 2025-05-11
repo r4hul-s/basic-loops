@@ -8,3 +8,4 @@ for i in range(1, 11):
 
 #any changes made to the file will be shown here 
 # okay okay
+#how can i commmit changes from remote to local 
