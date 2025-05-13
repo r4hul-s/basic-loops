@@ -33,6 +33,6 @@ while input_hrs != "exit": #this will keep running the loop until we want to exi
 
     print(set(input_hrs.split()))
     print(type(set(input_hrs.split())))
-    
+
     for list_items in set(input_hrs.split()): #here set function will only display the distinct values 
         validate() #calling function validate
